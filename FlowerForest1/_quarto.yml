@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: docs  
+  output-dir: docs   
 
 website:
   title: "FlowerForest"
@@ -16,3 +16,4 @@ format:
   html:
     theme: cosmo
     toc: true
+
