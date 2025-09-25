@@ -7,11 +7,15 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: 首页
+        text: 目录首页
       - href: about.qmd
-        text: 关于
-      - href: forest-essay.qmd
-        text: 我的文章
+      - text: 我的作品
+        menu:
+          - href: posts/flower-forest.qmd
+            text: 🌸 鲜花盛时的森林
+          - href: plus/index.qmd
+            text: 📚 倒计时为负的三百六十五个日月（总目录）
+
 format:
   html:
     theme: cosmo
