@@ -1,0 +1,4 @@
+{
+  "buildCommand": "curl -L -o quarto.tgz https://quarto.org/download/latest/quarto-linux-amd64.tar.gz && tar -xzf quarto.tgz && export PATH=\"$PWD/quarto-*/bin:$PATH\" && ./quarto-*/bin/quarto render",
+  "outputDirectory": "docs"
+}
