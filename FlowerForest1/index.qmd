@@ -13,8 +13,7 @@ format: html
 
 -   [鲜花盛时的森林](posts/flower-forest.qmd)
 -   [优代摩尼亚｜章节总目录](eudaimonia/index.qmd)
-
-------------------------------------------------------------------------
+-   [雾里花](cloud/cloud.qmd)
 
 ## 📚 连载作品
 
