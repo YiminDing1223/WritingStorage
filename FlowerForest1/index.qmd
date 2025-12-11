@@ -14,7 +14,13 @@ format: html
 -   [鲜花盛时的森林](posts/flower-forest.qmd)
 -   [优代摩尼亚｜章节总目录](eudaimonia/index.qmd)
 -   [雾里花](cloud/cloud.qmd)
+-   [三千二百米的洼地](mountain/mountain.qmd)
 
-## 📚 连载作品
+## 📚 长篇作品
 
 -   [倒计时为负的三百六十五个日月｜章节总目录](plus/index.qmd)
+
+## 📖 小小段子
+
+-   [论金学长与李学长到底认不认识](schoollife/schoollife.qmd)
+-   [浮云照夜行](mystery/mystery.qmd)
