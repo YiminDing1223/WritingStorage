@@ -26,3 +26,5 @@ format: html
 -   [浮云照夜行](mystery/mystery.qmd)
 -   [少爷与书童](MrAndMs/MrAndMs.qmd)
 -   [继父](StepMother/StepMother.qmd)
+-   [异世界小猫和小狗](MrAndMs/KittyAndDoggy.qmd)
+-   [Foreveryoungskz老师的美味分析](MrAndMs/foreveryoungskz.qmd)
