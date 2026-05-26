@@ -15,6 +15,7 @@ format: html
 -   [优代摩尼亚｜章节总目录](eudaimonia/index.qmd)
 -   [雾里花](cloud/cloud.qmd)
 -   [三千二百米的洼地](mountain/mountain.qmd)
+-   [蜃雾山残录](dream/dream.qmd)
 
 ## 📚 长篇作品
 
